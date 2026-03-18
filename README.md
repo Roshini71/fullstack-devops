@@ -81,5 +81,4 @@ onecreditgeolocation/
 - Frontend: Vanilla JavaScript and HTML/CSS
 
 ## License
-
-ISC
+Contact me
